@@ -15,9 +15,9 @@ This is a simple Tic Tac Toe game implemented as a web application using HTML, C
 
 
 ## How to Play
-Objective: Achieve three marks in a row (horizontally, vertically, or diagonally) before your opponent does.
-Turns: Players take turns marking an empty cell.
-Winning: The game announces the winner or declares a draw when the board fills up without a winner.
+* Objective: Achieve three marks in a row (horizontally, vertically, or diagonally) before your opponent does.
+* Turns: Players take turns marking an empty cell.
+* Winning: The game announces the winner or declares a draw when the board fills up without a winner.
 
 ## link of the project:
 
