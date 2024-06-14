@@ -21,3 +21,21 @@ Winning: The game announces the winner or declares a draw when the board fills u
 
 ## link of the project:
 
+https://github.com/NagaPravallika3007/PRODIGY_WD_03.git
+
+## Screenshot of the website:
+
+
+![Screenshot (8)](https://github.com/NagaPravallika3007/PRODIGY_WD_03/assets/171419600/7faf8b76-587d-481a-b399-60789ceff913)
+
+
+
+
+
+
+
+
+
+
+
+
